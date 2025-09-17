@@ -82,4 +82,9 @@ contact admin -+959758657395",
 "mebutn":"downloadButton",
 "skey":"data-scrambled-url=",
 "shareapp":"https://bluetvpro.com",
-"stlink":"free"}
+"stlink":"free",
+"cmgapi1":"https://www.homietv.com/api/movies/",
+"cmgapi2":"https://www.homietv.com/movie/",
+"cseapi1":"https://www.homietv.com/api/tv-shows/",
+"cseapi2":"https://www.homietv.com/tv-show/",
+"cmgapi":"open"}
